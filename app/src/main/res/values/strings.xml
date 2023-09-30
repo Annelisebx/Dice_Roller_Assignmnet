@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="roll">Roll</string>
+    <string name="number1">You rolled a 1! 1 means you are first!</string>
+    <string name="number2">You rolled a 2! Everything is better in pairs</string>
+    <string name="number3">You rolled a 3!</string>
+    <string name="number4">You rolled a 4!</string>
+    <string name="number5">You rolled a 5!</string>
+    <string name="number6">You rolled a 6!</string>
+    <string name="funfact">Fun Fact?</string>
+</resources>
